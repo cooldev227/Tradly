@@ -23,7 +23,7 @@ import appConstant from '../../../../Constants/AppConstants';
 
 // const windowWidth = Dimensions.get('window').width;
 
-export default class Profile extends Component {
+export default class EditProfile extends Component {
   constructor(props) {
     super(props);
     this.state = {
