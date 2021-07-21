@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import {
-  FlatList,
-  TextInput,
   Text,
   Image,
   View,
